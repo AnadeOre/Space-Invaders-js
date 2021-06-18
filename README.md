@@ -14,7 +14,7 @@ Move the ship with the arrows.
 
 Fire with `a`.
 
-![MainScreen](./Assets/Image1.png)
+![MainScreen](./Assets/Main.gif)
 
 ## Contributing 🖇️
 
